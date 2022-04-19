@@ -304,3 +304,11 @@ footer ul li:first-child{
 footer ul li:first-child:hover{
     text-decoration: none;
 }
+.attribution{
+    padding: 12px 10px;
+    color: #ff4759;
+    text-align: center;
+}
+.attribution a{
+    color: #140b0b;
+}
