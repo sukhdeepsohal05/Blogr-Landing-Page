@@ -311,4 +311,5 @@ footer ul li:first-child:hover{
 }
 .attribution a{
     color: #140b0b;
+    text-decoration: none;
 }
